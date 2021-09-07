@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2021-08-28T04:37:27.363135Z</date>
+  <millis>1630125447363</millis>
+  <nanos>135000</nanos>
+  <sequence>0</sequence>
+  <logger>me.sathish.package</logger>
+  <level>SEVERE</level>
+  <class>me.sathish.LoggingSample</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>This is the counter0</message>
+</record>
+<record>
+  <date>2021-08-28T04:37:27.412285Z</date>
+  <millis>1630125447412</millis>
+  <nanos>285000</nanos>
+  <sequence>1</sequence>
+  <logger>me.sathish.package</logger>
+  <level>SEVERE</level>
+  <class>me.sathish.LoggingSample</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>This is the counter1</message>
+</record>
+<record>
+  <date>2021-08-28T04:37:27.413234Z</date>
+  <millis>1630125447413</millis>
+  <nanos>234000</nanos>
+  <sequence>2</sequence>
+  <logger>me.sathish.package</logger>
+  <level>SEVERE</level>
+  <class>me.sathish.LoggingSample</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>This is the counter2</message>
+</record>
+<record>
+  <date>2021-08-28T04:37:27.414026Z</date>
+  <millis>1630125447414</millis>
+  <nanos>26000</nanos>
+  <sequence>3</sequence>
+  <logger>me.sathish.package</logger>
+  <level>SEVERE</level>
+  <class>me.sathish.LoggingSample</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>This is the counter3</message>
+</record>
+<record>
+  <date>2021-08-28T04:37:27.414967Z</date>
+  <millis>1630125447414</millis>
+  <nanos>967000</nanos>
+  <sequence>4</sequence>
+  <logger>me.sathish.package</logger>
+  <level>SEVERE</level>
+  <class>me.sathish.LoggingSample</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>This is the counter4</message>
+</record>
+</log>

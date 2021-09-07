@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2021-08-28T04:37:53.555130Z</date>
+  <millis>1630125473555</millis>
+  <nanos>130000</nanos>
+  <sequence>3</sequence>
+  <logger>me.sathish.package</logger>
+  <level>SEVERE</level>
+  <class>me.sathish.LoggingSample</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>This is the counter 3</message>
+</record>
+<record>
+  <date>2021-08-28T04:37:53.555951Z</date>
+  <millis>1630125473555</millis>
+  <nanos>951000</nanos>
+  <sequence>4</sequence>
+  <logger>me.sathish.package</logger>
+  <level>SEVERE</level>
+  <class>me.sathish.LoggingSample</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>This is the counter 4</message>
+</record>
+</log>
